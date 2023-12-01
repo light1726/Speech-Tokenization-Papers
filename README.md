@@ -4,10 +4,11 @@ This repository follows papers and reports on discrete speech representation lea
 ## Papers
 
 ### 2023
+- [[arXiv](https://arxiv.org/abs/2309.00169)][[demo]()][[code](https://github.com/mct10/RepCodec)] RepCodec: A Speech Representation Codec for Speech Tokenization
+
 - [[arXiv](https://arxiv.org/abs/2308.16692)] [[demo](https://0nutation.github.io/SpeechTokenizer.github.io/)] [[code](https://github.com/ZhangXInFD/SpeechTokenizer/)] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models
 
 - [[arXiv](https://arxiv.org/abs/2305.02765)][[demo]()][[code](https://github.com/yangdongchao/AcademiCodec)] HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec
-
 
 ### 2022
 - [[arXiv](https://arxiv.org/abs/2210.13438)][[demo](https://ai.honu.io/papers/encodec/samples.html)][[code](https://github.com/facebookresearch/encodec)] High Fidelity Neural Audio Compression
